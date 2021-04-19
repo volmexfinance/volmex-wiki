@@ -4,7 +4,7 @@
 
 Starting on May 1st, 2021, the [volmex-contracts](https://github.com/volmexfinance/volmex-contracts) repository is subject to the Volmex V1 Bug Bounty (the “Program”) to incentivize responsible bug disclosure.
 
-We are limiting the scope of the Program to critical and high severity bugs, and are offering a reward of up to $100,000. Happy hunting!
+We are limiting the scope of the Program to critical and high severity bugs, and are offering a reward of up to $150,000. Happy hunting!
 
 ## Scope
 

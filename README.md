@@ -1,7 +1,6 @@
 ## volmex.finance
 
-volmex.finance is a protocol for volatility indices and non-custodial trading built on Ethereum. Volmex provides VIX-like indices for crypto assets and accompanying trading functionality.
-
+This page is intended to be a convenient way to get to the information you are looking for about Volmex.
 
 ## Get started
 

@@ -8,6 +8,7 @@ volmex.finance is a protocol for volatility indices and non-custodial trading bu
 - Web app
 - Docs
 - Introductory blog post
+- FAQs
 
 ## Community 
 

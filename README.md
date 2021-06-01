@@ -17,7 +17,8 @@ This page is intended to be a convenient way to get to the information you are l
 
 ## Security
 
-- Final CertiK Audit
-- Final Coinspect Audit
+- Final CertiK Audit: https://github.com/volmexfinance/volmex-core/blob/master/audits/Volmex%20Finance%20Certik%20Audit.pdf
+- Final Coinspect Audit: https://github.com/volmexfinance/volmex-core/blob/master/audits/Volmex%20Finance%20Coinspect%20Audit.pdf
 - Bug bounty https://github.com/volmexfinance/bugbounty
+- [Bug bounty](#https://github.com/volmexfinance/bugbounty)
 

@@ -1,11 +1,6 @@
 ## volmex.finance
 
-
-▀█░█▀ █▀▀█ █░░ █▀▄▀█ █▀▀ █░█ ░ █▀▀ ░▀░ █▀▀▄ █▀▀█ █▀▀▄ █▀▀ █▀▀ 
-░█▄█░ █░░█ █░░ █░▀░█ █▀▀ ▄▀▄ ▄ █▀▀ ▀█▀ █░░█ █▄▄█ █░░█ █░░ █▀▀ 
-░░▀░░ ▀▀▀▀ ▀▀▀ ▀░░░▀ ▀▀▀ ▀░▀ █ ▀░░ ▀▀▀ ▀░░▀ ▀░░▀ ▀░░▀ ▀▀▀ ▀▀▀
-
-This page is intended to be a convenient way to get to the information you are looking for about Volmex.
+This wiki is intended to be a resource for all things volmex.finance. 
 
 ## Get started
 

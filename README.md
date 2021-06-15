@@ -4,10 +4,10 @@ This page is intended to be a convenient way to get to the information you are l
 
 ## Get started
 
-- Web app
-- Docs
+- [Web app](https://app.volmex.finance/)
+- [Docs](https://docs.volmex.finance/)
 - [Introductory blog post](https://blog.volmex.finance/volmex-v1/)
-- FAQs
+- [FAQs](https://volmex.finance/faq/)
 
 ## Community 
 
@@ -19,5 +19,5 @@ This page is intended to be a convenient way to get to the information you are l
 
 - [Final CertiK Audit](https://github.com/volmexfinance/volmex-core/blob/master/audits/Volmex%20Finance%20Certik%20Audit.pdf)
 - [Final Coinspect Audit](https://github.com/volmexfinance/volmex-core/blob/master/audits/Volmex%20Finance%20Coinspect%20Audit.pdf)
-- [Bug bounty](https://github.com/volmexfinance/bugbounty)
+- [Bug bounty](https://github.com/volmexfinance/bug-bounty)
 

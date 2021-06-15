@@ -4,8 +4,8 @@ This wiki is intended to be a resource for all things volmex.finance.
 
 ## Get started
 
-- [Web app](https://app.volmex.finance/)
 - [Docs](https://docs.volmex.finance/)
+- [Web app](https://app.volmex.finance/)
 - [Introductory blog post](https://blog.volmex.finance/volmex-v1/)
 - [FAQs](https://volmex.finance/faq/)
 

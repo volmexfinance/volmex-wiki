@@ -24,3 +24,10 @@ This wiki is intended to be a resource for all things volmex.finance.
 ## Analytics
 - [DeFi Llama](https://defillama.com/protocol/volmex)
 - [Dune Analytics](https://duneanalytics.com/danner_eth/Volmex-v1)
+
+## Media 
+- [Defiant Degens: How to Mint DeFi’s 1st Volatility Index by Volmex Finance](https://thedefiant.io/defiant-degens-how-to-mint-defis-1st-volatility-index-by-volmex-finance/)
+- [Volatility derivatives project Volmex Finance attracts backing from VC giants](https://cointelegraph.com/news/volatility-derivatives-project-volmex-finance-attracts-backing-from-vc-giants)
+
+
+

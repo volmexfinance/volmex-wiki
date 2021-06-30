@@ -28,6 +28,10 @@ This wiki is intended to be a resource for all things volmex.finance.
 - [iETHV CoinGecko Page](https://www.coingecko.com/en/coins/inverse-ethereum-volatility-index-token)
 - [BTCV CoinGecko Page](https://www.coingecko.com/en/coins/bitcoin-volatility-index-token)
 - [iBTCV CoinGecko Page](https://www.coingecko.com/en/coins/inverse-bitcoin-volatility-index-token)
+- [ETHV Nomics Page](https://nomics.com/assets/ethv3-ethereum-volatility-index-token)
+- [iETHV Nomics Page](https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token)
+- [BTCV Nomics Page](https://nomics.com/assets/btcv3-bitcoin-volatility-index-token)
+- [iBTCV Nomics Page](https://nomics.com/assets/ibtcv-inverse-bitcoin-volatility-index-token)
 
 ## Media 
 - [Defiant Degens: How to Mint DeFi’s 1st Volatility Index by Volmex Finance](https://thedefiant.io/defiant-degens-how-to-mint-defis-1st-volatility-index-by-volmex-finance/)

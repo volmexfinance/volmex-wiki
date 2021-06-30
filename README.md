@@ -24,6 +24,10 @@ This wiki is intended to be a resource for all things volmex.finance.
 ## Analytics
 - [DeFi Llama](https://defillama.com/protocol/volmex)
 - [Dune Analytics](https://duneanalytics.com/danner_eth/Volmex-v1)
+- [ETHV CoinGecko Page](https://www.coingecko.com/en/coins/ethereum-volatility-index-token)
+- [iETHV CoinGecko Page](https://www.coingecko.com/en/coins/inverse-ethereum-volatility-index-token)
+- [BTCV CoinGecko Page](https://www.coingecko.com/en/coins/bitcoin-volatility-index-token)
+- [iBTCV CoinGecko Page](https://www.coingecko.com/en/coins/inverse-bitcoin-volatility-index-token)
 
 ## Media 
 - [Defiant Degens: How to Mint DeFi’s 1st Volatility Index by Volmex Finance](https://thedefiant.io/defiant-degens-how-to-mint-defis-1st-volatility-index-by-volmex-finance/)

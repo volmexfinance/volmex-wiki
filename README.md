@@ -41,6 +41,7 @@ This wiki is intended to be a resource for all things volmex.finance.
 - [iETHV Nomics Page](https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token)
 - [BTCV Nomics Page](https://nomics.com/assets/btcv3-bitcoin-volatility-index-token)
 - [iBTCV Nomics Page](https://nomics.com/assets/ibtcv-inverse-bitcoin-volatility-index-token)
+- [Token Terminal Profile](https://www.tokenterminal.com/terminal/projects/volmex)
 
 ## Media 
 - [Defiant Degens: How to Mint DeFi’s 1st Volatility Index by Volmex Finance](https://thedefiant.io/defiant-degens-how-to-mint-defis-1st-volatility-index-by-volmex-finance/)

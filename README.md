@@ -24,6 +24,7 @@ This wiki is intended to be a resource for all things volmex.finance.
 
 ## Analytics
 - [DeFi Llama](https://defillama.com/protocol/volmex)
+- [DeFi Pulse](https://defipulse.com/volmex-finance)
 - [Dune Analytics](https://duneanalytics.com/danner_eth/Volmex-v1)
 - [ETHV CoinGecko Page](https://www.coingecko.com/en/coins/ethereum-volatility-index-token)
 - [iETHV CoinGecko Page](https://www.coingecko.com/en/coins/inverse-ethereum-volatility-index-token)

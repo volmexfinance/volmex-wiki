@@ -16,6 +16,9 @@ This wiki is intended to be a resource for all things volmex.finance.
 - [Twitter](https://twitter.com/volmexfinance)
 - [Blog](https://blog.volmex.finance/)
 
+## Jobs
+- [AngelList](https://angel.co/company/volmex-finance)
+
 ## Security
 
 - [Final CertiK Audit](https://github.com/volmexfinance/volmex-core/blob/master/audits/Volmex%20Finance%20Certik%20Audit.pdf)

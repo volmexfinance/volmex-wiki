@@ -6,9 +6,6 @@ This wiki is intended to be a resource for all things volmex.finance.
 
 - [Docs](https://docs.volmex.finance/)
 - [Web app](https://app.volmex.finance/)
-- [Introductory blog post](https://volmex.finance/introducing-volmex-finance-v1/)
-- [FAQs](https://volmex.finance/faq/)
-- [API](https://api.volmex.finance/graphql)
 
 ## Community 
 
